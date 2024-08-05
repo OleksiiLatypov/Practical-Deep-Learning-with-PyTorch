@@ -1,1 +1,1 @@
-<div align="center">DataRoot Labs</div>
+<div align="center" style="font-size: 36px;">DataRoot Labs</div>
