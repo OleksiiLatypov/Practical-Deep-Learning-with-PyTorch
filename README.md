@@ -4,7 +4,7 @@
 Course Modules
 1. **Introduction to Deep Learning and Neural Networks**
 
-What a Neural Network is mathematically.
+- What a Neural Network is mathematically.
 How to implement Neural Networks in practice.
 Topics covered:
 Linear Algebra in Neural Networks
@@ -14,14 +14,14 @@ Assessment: Knowledge test at the end of the module.
 
 2. **Introduction to PyTorch**
 
-Basics of building your first Neural Network.
+- Basics of building your first Neural Network.
 Advanced autograd mechanics.
 Assessment: Module test and practical application in two labs:
 Creating, training, and evaluating neural networks.
 
 3. **Convolutional Neural Networks**
 
-Object Classification
+- Object Classification
 Object Segmentation
 Object Detection
 Learn about state-of-the-art models:
@@ -32,7 +32,7 @@ Assessment: Three labs, a Kaggle competition, and a test.
 
 4. **Recurrent Neural Networks**
 
-Various recurrent models:
+- Various recurrent models:
 Vanilla RNN
 GRU
 LSTM
@@ -47,14 +47,12 @@ Solve the Human Activity Recognition dataset using several variations of RNNs.
 
 5. **Autoencoders**
 
-Mathematical theory behind Autoencoders.
+- Mathematical theory behind Autoencoders.
 Comparison with Principal Component Analysis.
 Project: Train a denoising autoencoder on a real-world dataset.
 
 6. **Generative Models**
-Generative Adversarial Networks (GANs) are powerful models for generating new data:
-
-Learn about various GANs:
+- Generative Adversarial Networks (GANs) are powerful models for generating new data:Learn about various GANs:
 Classic GAN
 Wasserstein GAN
 Progressive GAN
@@ -62,8 +60,8 @@ StyleGAN
 Assessment: Two labs, a test, and a project to generate your own CryptoPunks.
 
 7. **Attention & Transformers**
-Learn about sequence-to-sequence models, attention mechanisms, and Transformer models:
 
+- Learn about sequence-to-sequence models, attention mechanisms, and Transformer models:
 Hands-on practice with:
 Google's BERT
 OpenAI's GPT-2
@@ -71,5 +69,5 @@ Assessment: Project and test on Transformer applications.
 
 8. **Deploying PyTorch Models**
 
-Introduction to TorchScript for creating serializable and optimizable models.
+- Introduction to TorchScript for creating serializable and optimizable models.
 Use Fastformers for faster inference from Transformer models.
