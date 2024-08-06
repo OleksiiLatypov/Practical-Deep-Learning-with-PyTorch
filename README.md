@@ -11,12 +11,14 @@ Linear Algebra in Neural Networks
 Hyperparameter Tuning
 Regularization Techniques
 Assessment: Knowledge test at the end of the module.
+
 2. **Introduction to PyTorch**
 
 Basics of building your first Neural Network.
 Advanced autograd mechanics.
 Assessment: Module test and practical application in two labs:
 Creating, training, and evaluating neural networks.
+
 3. **Convolutional Neural Networks**
 
 Object Classification
@@ -27,6 +29,7 @@ YOLO_v3
 ResNet
 UNet
 Assessment: Three labs, a Kaggle competition, and a test.
+
 4. **Recurrent Neural Networks**
 
 Various recurrent models:
@@ -41,6 +44,7 @@ Variable Sequence Length
 Projects:
 Build a character-level RNN to generate classical music.
 Solve the Human Activity Recognition dataset using several variations of RNNs.
+
 5. **Autoencoders**
 
 Mathematical theory behind Autoencoders.
